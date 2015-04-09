@@ -1,4 +1,4 @@
-Demo Robolectric bug #1662
+Demo Robolectric bug #1664
 =====
 
-Demo this bug: https://github.com/robolectric/robolectric/issues/1662
+Demo this bug: https://github.com/robolectric/robolectric/issues/1664
